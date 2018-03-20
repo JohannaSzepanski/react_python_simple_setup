@@ -10,17 +10,16 @@ npm i --save-dev webpack webpack-cli babel-loader babel-preset-env to install pa
 create a webpack.config.js in root-folder
 configure webpack.config.js as in example file
 
-
-Setup React
+*Setup React*
 npm i --save react react-dom
 create a static folder
 setup files as in example
 
-Setup Python
+*Setup Python*
 Install python on your machine (current 3.6.5)
 create a server folder at the same level as static
 cd into that folder
-in commanline run:
+in commandline run:
 pip install virtualenv
 pip install virtualenvwrapper
 pip install flask
@@ -28,11 +27,10 @@ pip install flask
 Create a server.py file in server folder
 Setup file as in example
 
-
-Run frontend
+*Run frontend*
 npm run watch
 
-Run backend
+*Run backend*
 python server.py
 ```
 
