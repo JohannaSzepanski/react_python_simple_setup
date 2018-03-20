@@ -26,8 +26,10 @@ pip install virtualenv
 pip install virtualenvwrapper
 pip install flask
 ```
+```
 Create a server.py file in server folder
 Setup file as in example
+```
 
 *Run frontend*
 ```
