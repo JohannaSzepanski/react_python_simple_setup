@@ -9,7 +9,7 @@ npm init -y to create package.json with default values
 npm i --save-dev webpack webpack-cli babel-loader babel-preset-env to install packages as development dependencies
 create a webpack.config.js in root-folder
 configure webpack.config.js as in example file
-```
+
 
 Setup React
 npm i --save react react-dom
@@ -34,6 +34,6 @@ npm run watch
 
 Run backend
 python server.py
-
+```
 
 
