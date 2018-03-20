@@ -10,7 +10,7 @@ npm i --save-dev webpack webpack-cli babel-loader babel-preset-env to install pa
 create a webpack.config.js in root-folder
 configure webpack.config.js as in example file
 
-*Setup React*
+_Setup React_
 npm i --save react react-dom
 create a static folder
 setup files as in example
